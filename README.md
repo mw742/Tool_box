@@ -6,6 +6,6 @@ Do similarity analysis for a given compound database and make the results visual
 
 --reaction_handle.py
 
-Some basic handle the informaiton of chemical reaction using Rdkit package.
+Some basic command example to handle the informaiton of chemical reaction using Rdkit package.
 
 
