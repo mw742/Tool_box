@@ -10,6 +10,8 @@ Some basic command example to handle the informaiton of chemical reaction using 
 
 --PubChemAPI.py
 
-Ann example of using PubChemAPI pubchempy. More details illustraction can nbe found in https://pubchempy.readthedocs.io/en/latest/.
+An example of using PubChemAPI pubchempy. More details illustraction can nbe found in https://pubchempy.readthedocs.io/en/latest/.
 
+--MySQLexamples.py
 
+Simple examples of MySQL data management usage.
